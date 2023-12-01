@@ -73,4 +73,4 @@ This Python script fetches information about the current print job from the Octo
 
 Add the ability to output the most recent chat from a Twitch stream (IRC channel).
 
-[Check out the stream] (https://www.twitch.tv/bvabrava)
+[Check out the stream](https://www.twitch.tv/bvabrava)
