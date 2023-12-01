@@ -1,9 +1,8 @@
 # OctoPrint_CLI-StatMonitor
-View print status of Octoprint instance.
 
 ## Overview
 
-This Python script fetches information about the current print job from the OctoPrint API and displays progress, time remaining, time elapsed, and other details using the "toilet" command for ASCII art.
+This Python script fetches information about the current print job from the OctoPrint API and displays progress, time remaining, time elapsed, and other details using the "toilet" command to format it neatly.
 
 ## Requirements
 
